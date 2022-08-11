@@ -1,1 +1,1 @@
-web: gunicorn crm3.wsgi --log-file -
+web: gunicorn crmbyz.wsgi --log-file -
